@@ -1,0 +1,22 @@
+[app]
+PAGE_SIZE = 10
+RuntimeRootPath = runtime/
+LogPath = /var/log/dappsteros/
+LogSaveName = log
+LogFileExt = log
+DateStrFormat = 20060102
+DateTimeFormat = 2006-01-02 15:04:05
+TimeFormat = 15:04:05
+DateFormat = 2006-01-02
+DBPath     = /var/lib/dappsteros
+ShellPath  = /usr/share/dappsteros/shell
+UserDataPath = /var/lib/dappsteros/conf
+
+[server]
+RunMode = release
+ServerApi = https://api.dappsteros.io/dappsteros-api
+Handshake = socket.dappsteros.io
+Token = 
+USBAutoMount =
+
+[system]

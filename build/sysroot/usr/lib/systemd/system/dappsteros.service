@@ -1,0 +1,13 @@
+[Unit]
+After=dappsteros-message-bus.service
+After=rclone.service
+Description=DappsterOS Main Service
+
+[Service]
+ExecStart=/usr/bin/dappsteros -c /etc/dappsteros/dappsteros.conf
+PIDFile=/var/run/dappsteros/dappsteros.pid
+Restart=always
+Type=notify
+
+[Install]
+WantedBy=multi-user.target
