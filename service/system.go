@@ -352,7 +352,7 @@ func (c *systemService) GetCpuPercents() []float64 {
 	percent, _ := cpu.Percent(1, true)
 	vals := []float64{}
 	for p, _ := range percent {
-		v, _ := strconv.ParseFloat(fmt.Sprintf("%.1f", p), 64)
+		v, _ := strconv.ParseFloat(fmt.Sprintf("%.1f", float64(p)), 64)
 		vals = append(vals, v)
 	}
 	return vals
