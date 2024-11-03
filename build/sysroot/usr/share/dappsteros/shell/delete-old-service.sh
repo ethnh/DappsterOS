@@ -95,8 +95,8 @@ Check_Exist() {
     ${sudo_cmd} rm -rf /usr/local/bin/${CASA_BIN}
     
     #Clean
-    if [[ -d "/casaOS" ]]; then
-        ${sudo_cmd} rm -rf /casaOS
+    if [[ -d "/dappsterOS" ]]; then
+        ${sudo_cmd} rm -rf /dappsterOS
     fi
     Show 0 "Clearance completed."    
 

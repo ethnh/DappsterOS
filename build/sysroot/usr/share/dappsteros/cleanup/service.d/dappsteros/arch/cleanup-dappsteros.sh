@@ -15,7 +15,7 @@ readonly CASA_SERVICE_LIB=/lib/systemd/system/dappsteros.service
 readonly CASA_SERVICE_ETC=/etc/systemd/system/dappsteros.service
 
 # Old Casa Files
-readonly CASA_PATH=/casaOS
+readonly CASA_PATH=/dappsterOS
 readonly CASA_CONF_PATH_OLD=/etc/dappsteros.conf
 
 readonly aCOLOUR=(
