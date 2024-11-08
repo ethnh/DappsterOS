@@ -37,9 +37,6 @@
     </a> -->
     <br/>
     <!-- DappsterOS Community -->
-    <a href="https://discord.gg/knqAbbBbeX" target="_blank">
-        <img alt="IceWhale Discord" src="https://img.shields.io/discord/884667213326463016?color=162453&style=flat-square&label=Discord&logo=discord&logoColor=fff" />
-    </a>
     <a href="https://github.com/dappster-io/DappsterOS/discussions" target="_blank">
         <img alt="DappsterOS GitHub Discussions" src="https://img.shields.io/github/discussions/dappster-io/DappsterOS?color=162453&style=flat-square&label=Discussions&logo=github" />
     </a>
@@ -182,10 +179,7 @@ After looking at many systems and software on the market, the team found no serv
 So, we set out to build this open-source project to develop DappsterOS with our own hands, everyone in the community, and you.
 
 We believe that through community-driven collaborative innovation and open communication with global developers, we can reshape the digital home experience like never before.
-
-**A warm welcome for you to get help or share great ideas in the [Discord](https://discord.gg/knqAbbBbeX)!**
-
-[![Discord Card](https://discordapp.com/api/guilds/884667213326463016/widget.png?style=banner2)](https://discord.gg/knqAbbBbeX)
+ 
 
 ## Contributing
 
