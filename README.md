@@ -53,8 +53,8 @@
     </a>
     <br/>
     <!-- DappsterOS Links -->
-    <a href="https://www.dappsteros.io" target="_blank">Website</a> |
-    <a href="http://demo.dappsteros.io" target="_blank">Demo</a> |
+    <a href="https://www.dappster.io" target="_blank">Website</a> |
+    <a href="http://demo.dappster.io" target="_blank">Demo</a> |
     <a href="https://github.com/dappster-io/DappsterOS" target="_blank">GitHub</a>
     <br/>
     <br/>
