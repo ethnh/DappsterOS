@@ -61,9 +61,9 @@
     <!-- DappsterOS Snapshots -->
     <kbd>
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="snapshot-dark.jpg">
-          <source media="(prefers-color-scheme: light)" srcset="snapshot-light.jpg">
-          <img alt="DappsterOS Snapshot" src="snapshot-light.jpg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-dark.jpg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-light.jpg">
+          <img alt="DappsterOS Snapshot" src="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-light.jpg">
       </picture>
     </kbd>
 </p>
