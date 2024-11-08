@@ -5,9 +5,9 @@
 <p align="center">
     <!-- DappsterOS Banner -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_dark_night_800x300.png](https://avatars.githubusercontent.com/u/182697522?s=48&v=4)">
-        <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800x300.png](https://avatars.githubusercontent.com/u/182697522?s=48&v=4)">
-        <img alt="DappsterOS" src="[https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800x300.png](https://avatars.githubusercontent.com/u/182697522?s=48&v=4)">
+        <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/182697522?s=48&v=4">
+        <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/182697522?s=48&v=4">
+        <img alt="DappsterOS" src="https://avatars.githubusercontent.com/u/182697522?s=48&v=4">
     </picture>
     <br/>
     <i>Connect with the community, establish autonomy, reduce the cost of SaaS, and MAXIMIZE the potential for a personalized copilot.</i>
