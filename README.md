@@ -5,9 +5,9 @@
 <p align="center">
     <!-- DappsterOS Banner -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_dark_night_800x300.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800x300.png">
-        <img alt="DappsterOS" src="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800x300.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/182697522?s=48&v=4">
+        <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/182697522?s=48&v=4">
+        <img alt="DappsterOS" src="https://avatars.githubusercontent.com/u/182697522?s=48&v=4">
     </picture>
     <br/>
     <i>Connect with the community, establish autonomy, reduce the cost of SaaS, and MAXIMIZE the potential for a personalized copilot.</i>
@@ -37,9 +37,6 @@
     </a> -->
     <br/>
     <!-- DappsterOS Community -->
-    <a href="https://discord.gg/knqAbbBbeX" target="_blank">
-        <img alt="IceWhale Discord" src="https://img.shields.io/discord/884667213326463016?color=162453&style=flat-square&label=Discord&logo=discord&logoColor=fff" />
-    </a>
     <a href="https://github.com/dappster-io/DappsterOS/discussions" target="_blank">
         <img alt="DappsterOS GitHub Discussions" src="https://img.shields.io/github/discussions/dappster-io/DappsterOS?color=162453&style=flat-square&label=Discussions&logo=github" />
     </a>
@@ -53,17 +50,17 @@
     </a>
     <br/>
     <!-- DappsterOS Links -->
-    <a href="https://www.dappsteros.io" target="_blank">Website</a> |
-    <a href="http://demo.dappsteros.io" target="_blank">Demo</a> |
+    <a href="https://www.dappster.io" target="_blank">Website</a> |
+    <a href="http://demo.dappster.io" target="_blank">Demo</a> |
     <a href="https://github.com/dappster-io/DappsterOS" target="_blank">GitHub</a>
     <br/>
     <br/>
     <!-- DappsterOS Snapshots -->
     <kbd>
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="snapshot-dark.jpg">
-          <source media="(prefers-color-scheme: light)" srcset="snapshot-light.jpg">
-          <img alt="DappsterOS Snapshot" src="snapshot-light.jpg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-dark.jpg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-light.jpg">
+          <img alt="DappsterOS Snapshot" src="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-light.jpg">
       </picture>
     </kbd>
 </p>
@@ -182,10 +179,7 @@ After looking at many systems and software on the market, the team found no serv
 So, we set out to build this open-source project to develop DappsterOS with our own hands, everyone in the community, and you.
 
 We believe that through community-driven collaborative innovation and open communication with global developers, we can reshape the digital home experience like never before.
-
-**A warm welcome for you to get help or share great ideas in the [Discord](https://discord.gg/knqAbbBbeX)!**
-
-[![Discord Card](https://discordapp.com/api/guilds/884667213326463016/widget.png?style=banner2)](https://discord.gg/knqAbbBbeX)
+ 
 
 ## Contributing
 
